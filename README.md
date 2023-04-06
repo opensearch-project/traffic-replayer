@@ -1,11 +1,6 @@
-## My Project
+## OpenSearch Traffic Replayer
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+The Traffic Replayer takes previously recorded requests from an OpenSearch/ElasticSearch cluster and replays them on a target cluster, recording the status of each response.
 
 ## Security
 
